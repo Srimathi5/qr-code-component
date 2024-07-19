@@ -55,20 +55,6 @@ In this project, I learned how to:
 - Utilize Flexbox and CSS Grid to create responsive and flexible layouts.
 To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
 ### Continued development
 In future projects, I plan to:
 - Explore more advanced CSS techniques and animations.
