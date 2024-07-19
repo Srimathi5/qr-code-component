@@ -35,8 +35,8 @@ Key aspects of the project include:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Srimathi5/qr-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/Srimathi5/qr-code-component)
+- [Live Site URL](https://srimathi5.github.io/qr-code-component/)
 
 ## My process
 
