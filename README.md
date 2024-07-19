@@ -30,7 +30,7 @@ Key aspects of the project include:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 
 ### Links
