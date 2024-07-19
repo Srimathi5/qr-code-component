@@ -15,8 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 This project involves building a QR code component based on the design provided by Frontend Mentor. The challenge is to replicate the design as closely as possible using HTML and CSS. The project is intended to help developers practice and improve their front-end skills by working on a realistic, hands-on coding task.
 
